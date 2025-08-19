@@ -17,7 +17,7 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) web application built wi
 -   **Swap Marketplace**: Browse and search through items posted by other community members.
 -   **Swap Requests**: Initiate and manage swap requests with an integrated messaging system.
 -   **Favorites System**: Save interesting items for later.
--   **Admin Dashboard**: Moderate listings and manage users (if applicable).
+-   **Admin Dashboard**: Moderate listings and manage users.
 -   **Fully Responsive Design**: Seamless experience on desktop, tablet, and mobile.
 
 ## 🛠️ Tech Stack
